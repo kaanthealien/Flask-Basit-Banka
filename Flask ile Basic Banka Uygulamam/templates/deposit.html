@@ -1,0 +1,17 @@
+{% extends 'base.html' %} <!-- Bunları yazmamızın sebebi htmldeki ortak sayfaların kodlarını tekrar yazmak istemediğimden kaynaklı {} içindeki parametreler yani  -->
+{% block content %}
+Varlık Bölümümüz
+<br>
+<hr>
+<div class="container">
+  <form action = '/deposit' method="post">
+    <div class="mb-3">
+      <label for="exampleInputEmail1" class="form-label">Para Yatır</label>
+      <input type="text" name="deposit" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    
+
+
+    <button type="submit" class="btn btn-primary">Yatır</button>
+  </form>
+</div>
+{% endblock %}
