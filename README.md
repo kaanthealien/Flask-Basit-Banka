@@ -4,12 +4,12 @@ Merhabalar öncelikle.Yaptığım bu uygulamanın bazı yerlerinde alıntılama 
 Kendimi geliştirmeye çalışıyorum ve benim burdaki fonksiyonları ve analitiği sıfırdan geliştirmek benim için bir tık zor,herşey kafamda yeni yeni oturmaya başlıyor.Her neyse kendim üstünde eklemeler ve çıkarmalar yaparak geliştirmeye çalıştığım bu ufak uygulamayı
 size sunmaktan mutluluk duyarım:)
 
+![1](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/bee61114-fec6-4e9a-93f4-e0a069ce5eea)
+![2](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/12ebd7ec-2a70-4203-95a5-35601ab6341d)
+![3](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/612f404c-dfb3-4634-b987-ed420f5cc80e)
+![4](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/a3c28a87-edab-4812-96b6-4cbde12daeff)
+![5](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/3f3077f1-bdab-473c-8eb7-214193946632)
+![6](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/02b90d65-85c2-4f8b-ada6-7d29a7afcfd5)
+![7](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/8c7cab81-7eca-4262-bc06-eb976f1f6f7e)
+![8](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/e383a1cd-92ba-46a3-a326-f4a2713d3301)
 
-![1](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/229a8221-9244-44cf-9358-492c2bfb389f)
-![2](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/a1b6de56-3cec-40b9-9368-5d8062d538fc)
-![3](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/cd0d0399-2b28-4a38-8efa-9f773ece3bee)
-![4](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/a759a5f1-abc5-4039-91e8-2ef88acbd0af)
-![5](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/0c3e3219-42f6-4e5f-821b-de14bb8acbe5)
-![6](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/7a37f63f-3db9-45ef-8a38-043a5d8a7d53)
-![7](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/5703a3d3-e56c-444c-a28e-36df3567f9f5)
-![8](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/5cd5aa40-ee04-45eb-aec8-b8cf36a1800b)
