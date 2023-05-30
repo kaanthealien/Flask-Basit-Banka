@@ -3,7 +3,7 @@
 Merhabalar öncelikle.Yaptığım bu uygulamanın bazı yerlerinde alıntılama yapılmıştır.Web sitesi olarak hazır template sitelerinden ücretisiz olarak yararlanılmıştır.Kod kısmı incelenirse alıntılı yerler olduğunu anlayabilirsiniz.
 Kendimi geliştirmeye çalışıyorum ve benim burdaki fonksiyonları ve analitiği sıfırdan geliştirmek benim için bir tık zor,herşey kafamda yeni yeni oturmaya başlıyor.Her neyse kendim üstünde eklemeler ve çıkarmalar yaparak geliştirmeye çalıştığım bu ufak uygulamayı
 size sunmaktan mutluluk duyarım:)
-(NOT !!= Kaynak kodlarında alıntılamalar vardır !!)
+
 
 ![1](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/229a8221-9244-44cf-9358-492c2bfb389f)
 ![2](https://github.com/kaanthealien/Flask-Basit-Banka/assets/134944208/a1b6de56-3cec-40b9-9368-5d8062d538fc)
